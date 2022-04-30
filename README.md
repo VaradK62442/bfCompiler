@@ -20,3 +20,6 @@ there are only 8 characters that it can recognize:
 \[ (starts a loop)
 
 ] (ends the loop if the pointer value is 0, otherwise goes to start of loop)
+
+
+{This compiler is not 100% working correctly, will fix soon}
